@@ -8,9 +8,9 @@ const Home = () => {
         <section>
             <main className=" text-white">
              {/* main section 2 */}
-             <div className="h-screen flex flex-col align-middle justify-center bg-[url('/bg1.svg')] bg-cove">
-            <h2 className='px-10 text-5xl text-amber-400 font-bold font-stretch-ultra-condensed text-center pt-10 font-serif'>YOUR ONE STEP SOLUTION FOR EVERYTHING </h2>
-            <p className='px-16 text-center font-serif font-stretch-90% '>
+             <div className="h-screen flex flex-col align-middle justify-center bg-[url('/bg1.svg')] bg-cover">
+            <h2 className='md:px-10 text-2xl  md:text-5xl text-amber-400 font-bold font-stretch-ultra-condensed text-center md:pt-10 font-serif'>YOUR ONE STEP SOLUTION FOR EVERYTHING </h2>
+            <p className='md:px-16 text-center font-serif font-stretch-90% '>
           Get help anytime with our AI chatbot! Chito Help answers questions instantly, creates tickets automatically, and works 24/7 so you can focus on what matters most — keeping your customers happy and satisfied.
           <div className='p-4'>
             <button className='bg-indigo-600 p-1.5 rounded-xl'>Say Hii to CHITOH</button>
